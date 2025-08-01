@@ -75,6 +75,8 @@ Each result includes:
 Install all dependencies:
 ```bash
 pip install -r requirements.txt
+```
+--- 
 
 ## 🌱 Future Improvements
 - Add automatic altitude control to follow faces at different vertical positions.
