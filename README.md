@@ -86,4 +86,4 @@ pip install -r requirements.txt
 ## 📸 Preview
 
 ## 📄 License
-This project is for educational and experimental use only. Use at your own risk.
+- This project is for educational and experimental use only. Use at your own risk.
