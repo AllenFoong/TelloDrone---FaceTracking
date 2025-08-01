@@ -32,7 +32,7 @@ The drone **does not adjust its height via code**. Instead, it uses its **built-
 
 ## 📂 Project Structure
 
-/controllers/
+/controllers/ \n
 └── result/
 ├── video_YYYYMMDD_HHMMSS.avi
 └── terminal_YYYYMMDD_HHMMSS.txt
