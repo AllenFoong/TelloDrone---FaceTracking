@@ -1,0 +1,9 @@
+rc 0 20 0 12
+
+Left/Right = 0 → no sideways motion
+
+Forward/Backward = 20 → move forward at 20 cm/s
+
+Up/Down = 0 → no vertical motion
+
+Yaw = 12 → rotate clockwise at 12 °/s
