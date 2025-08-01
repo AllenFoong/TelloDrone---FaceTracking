@@ -83,7 +83,5 @@ pip install -r requirements.txt
 - Implement search-and-rotate behavior when no face is detected (currently disabled).
 - Explore more robust face detection models such as Mediapipe.
 
-## 📸 Preview
-
 ## 📄 License
 - This project is for educational and experimental use only. Use at your own risk.
