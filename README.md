@@ -32,14 +32,7 @@ The drone **does not adjust its height via code**. Instead, it uses its **built-
 
 ## 📂 Project Structure
 
-/controllers/ \n
-└── result/
-├── video_YYYYMMDD_HHMMSS.avi
-└── terminal_YYYYMMDD_HHMMSS.txt
-main.py
-README.md
-
-
+To configure the code, the file was under `/controllers/face_tracking.py/`.
 All flight sessions are automatically saved in the `/controllers/result/` folder.
 
 Each result includes:
